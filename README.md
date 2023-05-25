@@ -6,7 +6,7 @@
 <h1>Implement movie filter function<h1>
 <h1>Implement responsive button<h1><br />
 
-<h1> search word "product" on Stack Overflow with depth 1 <h1><br />
+
 ![login](https://github.com/GuzhanLiang/MovieTix-System-Group-Project-/assets/73972656/1b04b94b-a30e-4c02-8c02-9ce8acecd3aa)
 
 ![movie](https://github.com/GuzhanLiang/MovieTix-System-Group-Project-/assets/73972656/1a9fc438-2c19-4ee8-84fb-8715972a7407)

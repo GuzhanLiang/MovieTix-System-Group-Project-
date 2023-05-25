@@ -19,7 +19,7 @@
 
 ![purchase](https://github.com/GuzhanLiang/MovieTix-System-Group-Project-/assets/73972656/fb2a1e20-5206-4ffb-a78a-5f43c224fb40)
    
-
+<h1> Filter Function<h1>
 
 
 

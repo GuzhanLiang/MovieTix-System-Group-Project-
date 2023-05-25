@@ -1,0 +1,10 @@
+
+chino matrix Movie name: matrix Time: 10:00 AM Mar26  
+chino Single price: 7 
+chino Final price: 4 
+chino Number of ticket: 1 
+chino Coupon apply 
+chino Time: 10:00 AM Mar26  
+chino Movie name: matrix 
+chino Seat:Seat:C5  
+chino Credit-card number:303298509283409 

@@ -1,9 +1,9 @@
-## Java Group Project
+# Java Group Project
 
-<h1>Developed Movie Purchase System which store Movie and User Using JSON <h1><br />
-<h1>Display Moives using Java Swing<h1><br />
-<h1>Store purchase history using txt file<h1><br />
-<h1>Implement movie filter function<h1><br />
+<h1>Developed Movie Purchase System which store Movie and User Using JSON <h1>
+<h1>Display Moives using Java Swing<h1>
+<h1>Store purchase history using txt file<h1>
+<h1>Implement movie filter function<h1>
 <h1>Implement responsive button<h1><br />
 
 

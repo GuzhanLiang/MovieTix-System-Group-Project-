@@ -1,10 +1,10 @@
 ## Java Group Project
 
-Developed Movie Purchase System which store Movie and User Using JSON <br />
-Display Moives using Java Swing<br />
-Store purchase history using txt file<br />
-Implement movie filter function<br />
-Implement responsive button<br />
+<h1>Developed Movie Purchase System which store Movie and User Using JSON <h1><br />
+<h1>Display Moives using Java Swing<h1><br />
+<h1>Store purchase history using txt file<h1><br />
+<h1>Implement movie filter function<h1><br />
+<h1>Implement responsive button<h1><br />
 
 
 ![login](https://github.com/GuzhanLiang/MovieTix-System-Group-Project-/assets/73972656/1b04b94b-a30e-4c02-8c02-9ce8acecd3aa)
